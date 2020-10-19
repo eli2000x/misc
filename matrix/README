@@ -1,0 +1,4 @@
+
+How to run: Run make to create Sparse.jar, run "Sparse <input file> <output file>" 
+to perform Matrix operations on input file
+
