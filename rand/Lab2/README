@@ -1,0 +1,12 @@
+README for Lab2
+CruzID: ersli
+Erik Li, Sept 2018
+How to run: Run make to create FileReverse.jar and input two text files as command line arguments
+
+Source Files: ReverseFile.java
+Other Files: Makefile, README
+
+Online Resources: Java 7 String API (https://docs.oracle.com/javase/7/docs/api/java/lang/String.html?is-external=true),
+Java 7 Scanner API (https://docs.oracle.com/javase/7/docs/api/), 
+Java 7 File API (https://docs.oracle.com/javase/7/docs/api/java/io/File.html)
+

@@ -1,0 +1,10 @@
+README for Lab5
+CruzID: ersli
+Erik Li, November 2018
+How to run: Run make to create executable binary file queueClient and input two text files as command line arguments
+
+Source Files: queueClient.c, queue.c
+Other Files: Makefile, README, test-input.txt, test-output.txt, out.txt, queue.h
+
+Online Resources: C Standard Library atoi function (https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm),
+		  C Standard Library assert function(https://www.tutorialspoint.com/c_standard_library/c_macro_assert.htm)

@@ -1,0 +1,10 @@
+README for HW2
+CruzID: ersli
+Erik Li, October 2018
+How to run: Run make to create ChessBoard.jar, run "Usage: java -jar ChessBoard.jar <input file> <output file>" 
+to perform validity/attacking/find functions on input file.
+
+Source Files: ChessBoard.java, ChessPiece.java, LinkedList.java, Bishop.java, King.java, Knight.java, Pawn.java, Queen.java, Rook.java
+Other Files: Makefile, README, test-input.txt, test-out.txt
+
+Online Resources: Java 7 String API, Java 7 ArrayList API, Java 7 File API

@@ -1,0 +1,9 @@
+README for Lab3
+CruzID: ersli
+Erik Li, October 2018
+How to run: Run make to create executable binary file fileReverse and input two text files as command line arguments
+
+Source Files: fileReverse.c
+Other Files: Makefile, gettysburg.txt, gettysburg-reversed.txt, README
+
+Online Resources: Tutorialspoint C Programming (https://www.tutorialspoint.com/cprogramming/c_input_output.htm)

@@ -1,0 +1,9 @@
+README for HW3
+CruzID: ersli
+Erik Li, November 2018
+How to run: Run make to create ChessMoves.jar, run "java -jar ChessMoves.jar <input file> <output file>" to check if given list of moves is legal.
+
+Source Files: ChessMoves.java, ChessPiece.java, LinkedList.java, Bishop.java, King.java, Knight.java, Pawn.java, Queen.java, Rook.java
+Other Files: Makefile, README, simple-input.txt, simple-output.txt, output.txt
+
+Online Resources: Java 7 String API, Java 7 Character API

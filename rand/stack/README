@@ -1,0 +1,10 @@
+README for HW4
+CruzID: ersli
+Erik Li, November 2018
+How to run: Run make to create NQueens.jar, run "java -jar NQueens.jar <input file> <output file>" 
+to generate a solution to NQueens problem with given dimension and input queens.
+
+Source Files: NQueens.java, StackVars.java
+Other Files: Makefile, README, test-input.txt, test-output.txt
+
+Online Resources: Java 7 Stack API, Java 7 File API

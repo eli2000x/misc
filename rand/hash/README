@@ -1,0 +1,12 @@
+README for HW5
+CruzID: ersli
+Erik Li, December 2018
+How to run: Run make to create Bard.jar, run "java -jar Bard.jar <input file> <output file>" 
+to find words of a certain length and rank of Shakespeare's work
+
+Source Files: Bard.java, Words.java
+Other Files: Makefile, README, test-input.txt, test-output.txt
+
+Online Resources: Java 7 Hashtable API, Java 7 String API, Java 7 File API, Java 7 ArrayList API, Java 7 Collections API, 
+TutorialsPoint Collections (https://www.tutorialspoint.com/java/java_using_comparator.htm),
+TutorialsPoint Enumeration with Hashtables (https://www.tutorialspoint.com/javaexamples/collection_enumeration.htm)

@@ -1,0 +1,10 @@
+README for Lab4
+CruzID: ersli
+Erik Li, November 2018
+How to run: Run make to create executable binary file charType and input two text files as command line arguments
+
+Source Files: charType.c
+Other Files: Makefile, README, in.txt, out.txt, in-correct.txt
+
+Resources: alphaNum.c, cArrays.c
+Online Resources: C Standard Library (https://www.programiz.com/c-programming/library-function/ctype.h/isalpha)
